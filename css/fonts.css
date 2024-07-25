@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Vazir-font";
+  font-weight: 700;
+  font-style: normal;
+  src: url("/tapsi/assets/fonts/Vazir-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Vazir-font";
+  font-weight: 400;
+  font-style: normal;
+  src: url("/tapsi/assets/fonts/Vazir.woff") format("woff");
+}
+
+body,
+button {
+  font-family: "Vazir-font";
+}
